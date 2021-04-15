@@ -28,7 +28,7 @@ This should be easy enough for someone comfortable with technology. Ask for help
 Run the script with your chosen state and list of cities. For example, to search for appointments in NJ in the cities of Princeton and Plainsboro, run
 
 ```bash
-python vaccine.py python vaccine.py --state NJ --cities princeton plainsboro
+python vaccine.py --state NJ --cities princeton plainsboro
 ```
 
 You will see output like this:
